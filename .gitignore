@@ -1,0 +1,17 @@
+# Node modules
+**/node_modules/
+
+# Developing Things 
+BUILD.md
+**/.env
+
+# package
+**/package-lock.json
+
+# vim
+*~
+
+# my build
+**/dist/
+
+
